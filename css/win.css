@@ -1,0 +1,43 @@
+#title {
+ font-size: medium;
+
+}
+
+#parent{
+  font-size: 40px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  
+}
+
+input{
+  background-color: black;
+  color: white;
+  font-size: large;
+  border-radius: 10%;
+  cursor: pointer;
+
+}
+
+#start{
+
+  text-align    : center;
+}
+
+#start a{
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  font-size: large;
+  border-radius: 5%;
+  border: 1px solid #3c7fb1;
+  padding: 1em;
+  cursor: pointer;
+}
+
+#home{
+  text-align: center;
+}
+
+

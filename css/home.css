@@ -1,0 +1,30 @@
+#title {
+  font-size: medium;
+  background-color: black;
+  color: white;
+  text-align: center;
+ 
+ }
+ 
+
+ #typ a{
+
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  border-radius: 5%;
+  border: 1px solid #3c7fb1;
+  padding: 1em;
+  cursor: pointer;
+ }
+ 
+ /* #parent p{
+   
+   height: inherit;
+   
+ } */
+ 
+ #start{
+   text-align: center;
+ }
